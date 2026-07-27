@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0089D6,100:326CE5&height=200&section=header&text=Ibne%20Sabid%20Saikat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Solutions%20Architect%20and%20DevOps%20/%20MLOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0089D6,100:326CE5&height=200&section=header&text=Ibne%20Sabid%20Saikat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Solutions%20Architect%20and%20DevOps%20/%20AIOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Cloud+Solutions+Architect+%40+Microsoft;Microsoft+Certified+-+AZ-104+and+AZ-305;DevOps+-+Kubernetes+-+Terraform+-+CI%2FCD;MLOps+and+AIOps+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Cloud+Solutions+Architect+%40+Microsoft;Microsoft+Certified+-+AZ-104+and+AZ-305;DevOps+-+Kubernetes+-+Terraform+-+CI%2FCD;AIOps+and+MLOps+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
@@ -20,17 +20,17 @@
 name: Ibne Sabid Saikat
 role: Cloud Solutions Architect
 certifications: [AZ-104, AZ-305]
-focus: [Cloud, DevOps, Kubernetes, MLOps, AIOps]
-currently_learning: MLOps and AIOps on Kubernetes
+focus: [Cloud, DevOps, Kubernetes, AIOps, MLOps]
+currently_building: AIOps projects on Kubernetes
 projects_delivered: 29+
 based_in: Bangladesh
 ```
 
 - 🔭 Currently building **Cloud and DevOps automation** on Azure with Kubernetes and Terraform
-- 🌱 Deep-diving into **MLOps and AIOps** → [PredictOps-AIOps-Kubernetes](https://github.com/21saikat/PredictOps-AIOps-Kubernetes)
+- 🌱 Actively building **AIOps projects** → [PredictOps-AIOps-Kubernetes](https://github.com/21saikat/PredictOps-AIOps-Kubernetes)
 - 🎯 **29+ projects** shipped across Azure, DevOps pipelines, and container orchestration
 - ⚡ Microsoft Certified: **AZ-104 (Azure Administrator)** and **AZ-305 (Solutions Architect Expert)**
-- 💬 Talk to me about: **Cloud Architecture, Kubernetes, Terraform, CI/CD, Linux, MLOps**
+- 💬 Talk to me about: **Cloud Architecture, Kubernetes, Terraform, CI/CD, Linux, AIOps**
 - 📫 **iibnesabidsaikat4104@gmail.com**
 
 <br/>
@@ -56,7 +56,7 @@ based_in: Bangladesh
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-### 🤖 AI / MLOps
+### 🤖 AI / AIOps / MLOps
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
