@@ -1,95 +1,137 @@
-<h1 align="center">Hi 👋, I'm Ibne Sabid Saikat</h1>
-<h3 align="center">Cloud Solutions Architect | DevOps & MLOps Enthusiast | Microsoft Certified</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Cloud+Solutions+Architect;Microsoft+Certified+(AZ-104%2C+AZ-305);DevOps+%7C+Kubernetes+%7C+Terraform;MLOps+%26+AI+Enthusiast" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0089D6,100:326CE5&height=200&section=header&text=Ibne%20Sabid%20Saikat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Solutions%20Architect%20%7C%20DevOps%20%26%20MLOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=21saikat&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/21saikat?label=Followers&style=flat&color=blue" alt="followers" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Cloud+Solutions+Architect+%40+Microsoft;Microsoft+Certified+%7C+AZ-104+%26+AZ-305;DevOps+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;MLOps+%26+AIOps+Enthusiast" alt="Typing SVG" />
 
----
+<br/>
 
-### 🧑‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibnesabidsaikat/)
+[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iibnesabidsaikat4104@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=21saikat&label=Profile%20Views&color=0089D6&style=for-the-badge)](https://github.com/21saikat)
 
-- 🔭 I'm currently working on **Cloud & DevOps projects** using Azure, Kubernetes, and Terraform
-- 🌱 I'm currently learning **MLOps and AIOps** (see [PredictOps-AIOps-Kubernetes](https://github.com/21saikat/PredictOps-AIOps-Kubernetes))
-- 🎯 26+ Projects delivered in **Azure & DevOps**
-- ⚡ Microsoft Certified: **AZ-104 (Azure Administrator)** & **AZ-305 (Azure Solutions Architect)**
-- 💬 Ask me about **Cloud, DevOps, Kubernetes, Terraform, CI/CD, Linux**
-- 📫 Reach me: **iibnesabidsaikat4104@gmail.com**
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-**Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
+```yaml
+name: Ibne Sabid Saikat
+role: Cloud Solutions Architect
+certifications: [AZ-104, AZ-305]
+focus: [Cloud, DevOps, Kubernetes, MLOps, AIOps]
+currently_learning: MLOps & AIOps on Kubernetes
+projects_delivered: 26+
+based_in: Bangladesh
+```
 
-**Languages & Web**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+- 🔭 Currently building **Cloud & DevOps automation** on Azure with Kubernetes and Terraform
+- 🌱 Deep-diving into **MLOps & AIOps** → [PredictOps-AIOps-Kubernetes](https://github.com/21saikat/PredictOps-AIOps-Kubernetes)
+- 🎯 **26+ projects** shipped across Azure, DevOps pipelines, and container orchestration
+- ⚡ Microsoft Certified: **AZ-104 (Azure Administrator)** & **AZ-305 (Solutions Architect Expert)**
+- 💬 Talk to me about: **Cloud Architecture · Kubernetes · Terraform · CI/CD · Linux · MLOps**
+- 📫 **iibnesabidsaikat4104@gmail.com**
 
-**AI / MLOps**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+<br/>
 
----
+## 🛠️ Tech Arsenal
 
-### 🚀 Featured Projects
+<div align="center">
 
-| Project | Description |
-|---|---|
-| [K8s-HPA-Autoscaling-App](https://github.com/21saikat/K8s-HPA-Autoscaling-App) | Kubernetes app demonstrating Horizontal Pod Autoscaling |
-| [PredictOps-AIOps-Kubernetes](https://github.com/21saikat/PredictOps-AIOps-Kubernetes) | AIOps project predicting Kubernetes issues using ML |
-| [kubernetes-the-hard-way1](https://github.com/21saikat/kubernetes-the-hard-way1) | Learning Kubernetes from basics to advanced (B to A) |
-| [django-todo-cicd](https://github.com/21saikat/django-todo-cicd) | Django Todo app with full CI/CD pipeline |
-| [devops-assessment](https://github.com/21saikat/devops-assessment) | End-to-end DevOps assessment project |
+### ☁️ Cloud & Infrastructure
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
----
+### ⚙️ CI/CD & Automation
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 
-### 📊 GitHub Stats
+### 💻 Languages & Web
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21saikat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21saikat&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+### 🤖 AI / MLOps
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21saikat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</div>
 
----
+<br/>
 
-### 🏆 Certifications
+## 🚀 Featured Projects
 
-- ✅ Microsoft Certified: Azure Administrator Associate (AZ-104)
-- ✅ Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
+<div align="center">
 
----
+<a href="https://github.com/21saikat/PredictOps-AIOps-Kubernetes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=21saikat&repo=PredictOps-AIOps-Kubernetes&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/21saikat/K8s-HPA-Autoscaling-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=21saikat&repo=K8s-HPA-Autoscaling-App&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/21saikat/devops-assessment">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=21saikat&repo=devops-assessment&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/21saikat/kubernetes-the-hard-way1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=21saikat&repo=kubernetes-the-hard-way1&theme=tokyonight&hide_border=true"/>
+</a>
 
-### 🌐 Connect With Me
+</div>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ibnesabidsaikat/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:iibnesabidsaikat4104@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<br/>
 
----
+## 📊 GitHub Analytics
 
-<p align="center"><i>⭐️ From <a href="https://github.com/21saikat">21saikat</a> — Building in the Cloud, one deployment at a time.</i></p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=21saikat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=21saikat&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21saikat&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=21saikat&theme=tokyo-night&hide_border=true" width="48%"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=21saikat&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
+
+<br/>
+
+## 🎓 Certifications
+
+<div align="center">
+
+| Certification | Issuer |
+|:---:|:---:|
+| 🏅 **AZ-104** — Azure Administrator Associate | Microsoft |
+| 🏅 **AZ-305** — Azure Solutions Architect Expert | Microsoft |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibnesabidsaikat/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iibnesabidsaikat4104@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,100:0089D6&height=100&section=footer"/>
+
+**⭐️ Building in the Cloud, one deployment at a time.**
+
+</div>
