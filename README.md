@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0089D6,100:326CE5&height=200&section=header&text=Ibne%20Sabid%20Saikat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Solutions%20Architect%20and%20DevOps%20/%20AIOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Cloud+Solutions+Architect+%40+Microsoft;Microsoft+Certified+-+AZ-104+and+AZ-305;DevOps+-+Kubernetes+-+Terraform+-+CI%2FCD;AIOps+and+MLOps+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Cloud+Solutions+Architect;Microsoft+Certified+-+AZ-104+and+AZ-305;DevOps+-+Kubernetes+-+Terraform+-+CI%2FCD;AIOps+and+MLOps+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
