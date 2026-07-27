@@ -67,44 +67,13 @@ based_in: Bangladesh
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/21saikat/PredictOps-AIOps-Kubernetes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=21saikat&repo=PredictOps-AIOps-Kubernetes&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/21saikat/K8s-HPA-Autoscaling-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=21saikat&repo=K8s-HPA-Autoscaling-App&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/21saikat/devops-assessment">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=21saikat&repo=devops-assessment&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/21saikat/kubernetes-the-hard-way1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=21saikat&repo=kubernetes-the-hard-way1&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=21saikat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=21saikat&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21saikat&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=21saikat&theme=tokyo-night&hide_border=true" width="48%"/>
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=21saikat&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
+| Project | Description | Stack |
+|---|---|---|
+| [PredictOps-AIOps-Kubernetes](https://github.com/21saikat/PredictOps-AIOps-Kubernetes) | AIOps project predicting Kubernetes issues using ML | Python |
+| [K8s-HPA-Autoscaling-App](https://github.com/21saikat/K8s-HPA-Autoscaling-App) | Kubernetes app demonstrating Horizontal Pod Autoscaling | Kubernetes |
+| [devops-assessment](https://github.com/21saikat/devops-assessment) | End-to-end DevOps assessment project | Terraform/HCL |
+| [kubernetes-the-hard-way1](https://github.com/21saikat/kubernetes-the-hard-way1) | Learning Kubernetes from basics to advanced (B to A) | Kubernetes |
+| [django-todo-cicd](https://github.com/21saikat/django-todo-cicd) | Django Todo app with full CI/CD pipeline | Python |
 
 <br/>
 
